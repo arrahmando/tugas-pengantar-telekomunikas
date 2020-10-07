@@ -1,0 +1,5 @@
+1) througput : kecepatan rata2 data yang diterima oleh suatu node dalam selang waktu pengamatan tertentu.
+rumus : jumlah data dikirim(bytes)/waktu pengiriman(time span) x 8
+      : 21999/10.027x8 = 17.55181011269572
+
+3)

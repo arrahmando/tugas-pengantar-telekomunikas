@@ -1,0 +1,4 @@
+5) paket lossPacket : banyak paket yang hilang pada suatu jaringan paket yang disebabkan oleh tabtakan (collis penuhnya
+kapasitas jaringan, dan penurunan paket yang disebabkan oleh habisnya TTL (Time To Live) paket.
+   rumus packetloss : jumlah paket yangdikirim - jumlah paket yang diterima/jumlah paket yang dikirim x 100%
+                    : 16501-16501/16501x100% : 0
